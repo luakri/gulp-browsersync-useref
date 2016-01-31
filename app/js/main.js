@@ -1,0 +1,3 @@
+/*global greet */
+
+greet('John');
